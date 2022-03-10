@@ -163,6 +163,10 @@
 		{
 			"Name": "ChaosEditor",
 			"Enabled": false
+		},
+		{
+			"Name": "PureWeb",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
